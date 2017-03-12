@@ -1,1 +1,1 @@
-# Windows-Cleaning-System
+This is a software which is made for windows cleaning. This Sofwares maintains all the information of customers like their payment, date, time, number of windows etc.. 
